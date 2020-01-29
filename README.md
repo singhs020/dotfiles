@@ -2,6 +2,7 @@
 it contains dot files which I use on regular basis. following is the list:
 
 - .gitignore
-- .eslintrc
+- .eslintrc (deprecated version)
 - .nycrc
 - .travis.yml
+- .eslintrc.json(new style)
